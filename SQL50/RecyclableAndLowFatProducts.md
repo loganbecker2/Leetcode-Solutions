@@ -2,7 +2,7 @@
 --- See description of problem below ---
 
 ## Solution
-select product_id from Products
+select product_id from Products \
 where low_fats = 'Y' and recyclable = 'Y'
 
 
